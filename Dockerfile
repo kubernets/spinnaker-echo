@@ -1,2 +1,2 @@
-FROM gcr.io/spinnaker-marketplace/echo:0.8.0-20180221133510
-LABEL version="0.8.0-20180221133510"
+FROM gcr.io/spinnaker-marketplace/echo:2.0.1-20180817041609
+LABEL version="2.0.1-20180817041609"
